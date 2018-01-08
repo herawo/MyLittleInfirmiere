@@ -3,15 +3,15 @@
 
 ## Team members
 
-Nicolas Bouyssounousse.
+Nicolas Bouyssounousse
 
-Romain Vincent.
+Romain Vincent
 
-Yaniss Fournet.
+Yaniss Fournet
 
-Michael Martinez.
+Michael Martinez
 
-Valentin Mele.
+Valentin Mele
 
-Alexis Clément.
+Alexis Clément
 
