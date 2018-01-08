@@ -1,0 +1,5 @@
+flask
+flask-classy
+flask-sqlalchemy
+flask-jwt==0.3.2
+marshmallow
